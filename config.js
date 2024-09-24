@@ -8,12 +8,12 @@ const CONFIG = {
     title: 'Phải chăng anh đã phải lòng em ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say em ngay từ lúc chưa biết nhau ',
     btnYes: 'Vẫn cứ là thích bbi nhất <33',
-    btnNo: 'Không, cậu à, có cái nịt á :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại lựa chọn phải lòng tớ <3',
-    btnReply: 'Gửi cho tớ <3',
+    btnNo: 'Không, Anh à, có cái nịt á :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại lựa chọn phải lòng em <3',
+    btnReply: 'Gửi cho em <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Tớ biết mà 🥰. Yêu cậu nhiều vllll 😘😘',
-    messDesc: 'Đợi tớ đến lúc cus nhóa bae. love bae <3',
+    mess: 'EM biết mà 🥰. Yêu anh nhiều vllll 😘😘',
+    messDesc: '',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com/tttlinh.1506' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
